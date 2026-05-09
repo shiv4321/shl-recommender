@@ -1,0 +1,14 @@
+# Virtual Environment
+myenv/
+
+# Python Bytecode
+__pycache__/
+
+# Environment Variables
+.env
+
+# IDE Specific
+.idea/
+
+# OS Generated Files
+*.DS_Store
